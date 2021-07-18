@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.menu {
+  background-color: #4a3f35;
+  color: white;
+}
+
+.menu .leftmenu h1 {
+  font-family: "Caveat", cursive;
+}
+/* 
+.main-slides img {
+  width: 100%;
+  height: 600px;
+} */
+
+.content {
+  padding: 10%;
+}
+
+.content h2 {
+  font-size: 80px;
+}
+
+.content a {
+  color: white;
+  font-size: 30px;
+  background-color: orange;
+  border-radius: 10px;
+  padding: 1% 1%;
+}
+
+.content a:hover {
+  text-decoration: none;
+  background-color: transparent;
+}
